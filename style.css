@@ -6,8 +6,6 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: #ccc;
-    padding: 20px;
 }
 
 .page {
@@ -16,7 +14,6 @@ body {
     margin: auto;
     padding: 20mm;
     background: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 h1 {
@@ -95,6 +92,7 @@ p {
     margin: 10px 0 10px 20px;
     text-align: left;
 }
+
 
 
 
