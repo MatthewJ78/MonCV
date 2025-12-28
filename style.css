@@ -10,7 +10,14 @@ body {
     padding: 20px;
 }
 
-
+.page {
+    width: 210mm;
+    min-height: 297mm;
+    margin: auto;
+    padding: 20mm;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
 
 h1 {
     color: #000925;
@@ -88,5 +95,6 @@ p {
     margin: 10px 0 10px 20px;
     text-align: left;
 }
+
 
 
